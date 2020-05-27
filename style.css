@@ -5,6 +5,11 @@
 */
 
 /*============================ Início Cabeçalho ================================*/
+
+p {
+	font-size: 15px !important;
+}
+
 .header-site {
 	background-image: url(img/imagem01_comprimida.jpg);
 	background-position: center top;
