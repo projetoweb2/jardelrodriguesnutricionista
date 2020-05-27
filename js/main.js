@@ -46,9 +46,9 @@ var $target = $('.anime'),
 
 	$(document).scroll(debounce(function(){
 		animeScroll();
-		
+
 	},200 ));
-	// vai segurar a função por 200 milisegundos
+	// vai segurar a função por 200 milisegundos..
 
 	//MELHORA A PERFORMACE DO SITE
 
