@@ -1,3 +1,10 @@
+//Informações básicas da página
+const SITE_URL = 'http://localhost';
+const SITE_PASTA = 'loja';
+const SITE_NOME = 'Jardel Rodrigues | Nutricionista';
+const SITE_EMAIL_ADM = 'rafaellucasdesenvolvedorweb@gmail.com';
+
+
 // debounce vai segurar a ativação da função
 // evitando que ela seja ativada várias vezes durante o scroll.
 debounce = function(func, wait, immediate){

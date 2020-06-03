@@ -11,7 +11,7 @@ p {
 }
 
 .header-site {
-	background-image: url(img/imagem01_comprimida.jpg);
+	background-image: url(img/1.png);
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -86,7 +86,7 @@ p {
 }
 
 .img-site{
-	background-image: url(img/imagem02_comprimida.jpg);
+	background-image: url(img/2.png);
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
