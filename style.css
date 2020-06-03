@@ -62,7 +62,7 @@ p {
 	padding: 8% 3%;
 	background-color: #DCDCDC;
 	overflow: hidden;
-	color: #363636;
+	color: #008B8B;
 	font-style: italic;
 
 }
@@ -82,6 +82,7 @@ p {
 	font-style: italic;
 	text-align: left !important;
 	padding: 4% 4%;
+	box-shadow: 10px 10px 0px #363636;
 }
 
 .img-site{
@@ -126,6 +127,48 @@ p {
 }
 
 /*============================ Fim àrea de ícones =============================*/
+
+/*============================ Início àrea de consultas ==========================*/
+
+.consult-site {
+	background: linear-gradient(#DCDCDC,#DCDCDC);
+	color: #6E8B3D;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+.consult-site hr {
+	width: 50%;
+}
+
+.consult-site img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin-bottom: 0px;
+    max-width: 100%;
+}
+
+.consult-site p {
+	color: #363636;
+	font-style: italic;
+}
+
+.consult-site h2 {
+	font-weight: bold;
+}
+
+.consult-site h5 {
+	font-style: italic;
+}
+
+.consult-site a {
+	color: #6E8B3D;
+	text-decoration: none;
+}
+
+
+/*============================ Fim àrea de consultas =============================*/
 
 /*============================ Início àrea de rodapé ==========================*/
 
