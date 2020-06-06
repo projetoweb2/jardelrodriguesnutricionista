@@ -25,7 +25,7 @@ p {
 
 .header-site h1 {
 
-	font-size: 30px;
+	font-size: 40px;
 	text-align: left;
 	font-weight: bold;
 	color: #6E8B3D;
@@ -33,7 +33,7 @@ p {
 
 .header-site p {
 
-	font-size: 15px;
+	font-size: 25px;
 	text-align: left;
 	font-weight: bold;
 	color: #008B8B;
@@ -151,7 +151,6 @@ p {
 
 .consult-site p {
 	color: #363636;
-	font-style: italic;
 }
 
 .consult-site h2 {
@@ -159,7 +158,6 @@ p {
 }
 
 .consult-site h5 {
-	font-style: italic;
 }
 
 .consult-site a {
